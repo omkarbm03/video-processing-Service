@@ -40,7 +40,7 @@ A fully serverless, scalable, and high-performance video processing platform bui
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/your-username/video-processing-service.git
+git clone https://github.com/omkarbm03/video-processing-service.git
 cd video-processing-service
 
 # Install dependencies
